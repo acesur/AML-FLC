@@ -1561,21 +1561,21 @@ disp('    COMPLETE ASSIGNMENT SUMMARY                                  ');
 disp('=================================================================');
 
 fprintf('\n🎯 ASSIGNMENT COMPLETION STATUS:\n');
-fprintf('✅ PART 1: FLC Design & Implementation (30 marks) - COMPLETE\n');
+fprintf('✅ PART 1: FLC Design & Implementation\n');
 fprintf('   • Assistive care environment FLC system\n');
 fprintf('   • Multiple controllers (Temperature, Lighting, Audio)\n');
 fprintf('   • Comprehensive rule bases with safety priorities\n');
 fprintf('   • Realistic testing scenarios for disabled residents\n');
 fprintf('   • Complete visualizations and analysis\n\n');
 
-fprintf('✅ PART 2: Genetic Algorithm Optimization (10 marks) - COMPLETE\n');
+fprintf('✅ PART 2: Genetic Algorithm Optimization\n');
 fprintf('   • Training data generation for assistive care scenarios\n');
 fprintf('   • GA parameter configuration and implementation\n');
 fprintf('   • Fitness function design for FLC performance\n');
 fprintf('   • %.2f%% performance improvement achieved\n', improvement);
 fprintf('   • Mamdani vs Sugeno comparison provided\n\n');
 
-fprintf('✅ PART 3: CEC 2005 Benchmark Comparison (10 marks) - COMPLETE\n');
+fprintf('✅ PART 3: CEC 2005 Benchmark Comparison\n');
 fprintf('   • CEC 2005 functions F1 (Sphere) and F6 (Rosenbrock) implemented\n');
 fprintf('   • GA vs PSO comparison on benchmark functions\n');
 fprintf('   • Multiple dimensions tested (D=10, D=30)\n');
